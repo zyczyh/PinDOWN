@@ -2,6 +2,7 @@
 PinDOWN is a Linux Security Module
 
 The main part of this project is to implementing a linux secure module that we will call
+
 PinDOWN which has the following features:
 
 • PinDOWN identifies programs by their pathname, whereas we can also identifies programs by the
